@@ -16,7 +16,9 @@ const Saved = () => {
                 <GlobalStyle themeColor={theme.colorPalette.color} />
                 <ThemeProvider theme={theme}>
                     <Header themeColor={theme.colorPalette.color} />
-                    <StatusMSGStyled>You haven't save any quote yet.</StatusMSGStyled>
+                    <GridContainer>
+                        <StatusMSGStyled>You haven't save any quote yet.</StatusMSGStyled>
+                    </GridContainer>
                     <Footer />
                 </ThemeProvider>
             </>
