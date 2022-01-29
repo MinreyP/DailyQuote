@@ -1,4 +1,4 @@
-# DailyQuote
+# Daily Quote
 
 <p>Daily Quote is an app that generates random quotes for your daily inspiration.
 You can shuffle, save and share the quotes you like on social meds, 
